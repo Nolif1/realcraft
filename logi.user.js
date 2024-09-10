@@ -6,8 +6,8 @@
 // @author       Nolifequ
 // @match        https://realcraft.pl/panel/admin_logs
 // @icon         https://i.imgur.com/eCS6YlO.png
-// @updateURL    https://raw.githubusercontent.com/Nolif1/realcraft/main/logi.js
-// @downloadURL  https://raw.githubusercontent.com/Nolif1/realcraft/main/logi.js
+// @updateURL    https://raw.githubusercontent.com/Nolif1/realcraft/main/logi.user.js
+// @downloadURL  https://raw.githubusercontent.com/Nolif1/realcraft/main/logi.user.js
 // @grant        none
 // ==/UserScript==
 
