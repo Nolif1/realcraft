@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Rozszerzenie do admin_logs
 // @namespace    http://tampermonkey.net/
-// @version      1.0
+// @version      1.1
 // @description  .
 // @author       Nolifequ
 // @match        https://realcraft.pl/panel/admin_logs
